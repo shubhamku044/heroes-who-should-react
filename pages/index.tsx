@@ -10,6 +10,9 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
+        <h1 className='text-lg'>
+          Heroes who should react
+        </h1>
       </main>
     </>
   );
